@@ -1,0 +1,27 @@
+{
+    "backgroundContainer": {
+        "type": "container",
+        "id": "backgroundContainer",
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "regX": 0,
+        "regY": 0,
+        "rotation": 0,
+        "visible": true,
+        "parent": ""
+    
+    },
+    "background": {
+        "type": "sprite",
+        "texture": "./assets/loading-screen/Loading_Screen_Background.png",
+        "x": 0,
+        "y": 0,
+        "width": 800,
+        "height": 600,
+        "parent": "backgroundContainer"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "myslotgame",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "@esotericsoftware/spine-core": "^4.2.56",
+    "@esotericsoftware/spine-pixi": "^4.2.56",
+    "pixi.js": "^7.4.2"
+  }
+}
